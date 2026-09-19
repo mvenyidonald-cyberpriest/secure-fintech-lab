@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.ova
+*.iso
+*.vdi
+.vscode/
